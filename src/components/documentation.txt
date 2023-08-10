@@ -1,0 +1,19 @@
+--NOTES--
+
+
+
+
+--ROADMAP--
+--Tools
+1-- Install Formik
+2-- Install Yup
+3-- Install Material UI
+4-- Create Form
+5-- Make Validation
+6-- Function Form Steps
+
+-- Create Template UI Form with Material UI
+-- Create Form and validation with Yup - Formik - Form - Field : formik (TextField : Material UI) - ErrorMessage
+-- Complet The Design - Make Fields Color Red When Error 
+-- Reset Form 
+
